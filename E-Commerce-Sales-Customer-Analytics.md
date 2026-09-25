@@ -55,7 +55,7 @@ The main objectives of this project are:
 * Calculate running sales.
 * Find best-selling products.
 * Create reusable SQL views.
-* Practice SQL concepts commonly asked in Data Analyst interviews.
+
 
 ---
 
